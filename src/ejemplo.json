@@ -1,0 +1,16 @@
+[
+    {
+       "id": "1",
+       "platillo":"tabla de verduras",
+       "precio": "18.000",
+       "descripción": "perfecta mezcla de vegetales sazonados a la parrilla"
+
+    },
+    {
+        "id": "2",
+        "platillo":"Totem de atum",
+        "precio": "22.000",
+        "descripción": "Atún fresco, aguacate, mango, pepino, acompañado de una exquisita salsa de la casa con un toque de cebolla empanizada"
+        
+     }
+    ]
